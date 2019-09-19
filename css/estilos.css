@@ -60,7 +60,7 @@ valores */
 
 
 body {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Source Sans Pro', system-ui;
   margin: 0;
 }
 
@@ -70,7 +70,7 @@ h3,
 h4,
 h5,
 h6{
-  font-family: 'Fjalla One', sans-serif;
+  font-family: 'Fjalla One', system-ui;
   font-weight: normal;
   /* font-style: italic; */
 }
